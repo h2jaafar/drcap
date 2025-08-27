@@ -1,0 +1,12 @@
+# Define the goal (target position)
+float32 x
+float32 y
+float32 theta
+---
+# Define the feedback (current position)
+float32 current_x
+float32 current_y
+float32 current_theta
+---
+# Define the result (success or failure message)
+string result

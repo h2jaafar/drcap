@@ -1,0 +1,3 @@
+int64 num_robots
+builtin_interfaces/Time timestamp
+bool total_reached

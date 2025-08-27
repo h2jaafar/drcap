@@ -1,0 +1,10 @@
+#Goal
+string robot
+builtin_interfaces/Time timestamp
+---
+#Result
+int64 reached_number
+bool success
+---
+#Feedback (optional)
+int64 current_number
